@@ -1,20 +1,4 @@
-# 🚀 Data Science Project Portfolio
 
-👤 **Author:** Samarth Banodia  
-📧 **Email:** 24b0392@iitb.ac.in  
-🌐 **GitHub:** [samarthbanodia.github.io](https://samarthbanodia.github.io)
-
----
-
-## 📚 Table of Contents
-
-- [🎓 Project 1: Academic Performance Prediction Using Study and Lifestyle Patterns](#-project-1-academic-performance-prediction-using-study-and-lifestyle-patterns)
-- [🎬 Project 2: Sentiment Analysis of Movie Reviews](#-project-2-sentiment-analysis-of-movie-reviews)
-- [🌱 Project 3: Customer Segmentation for Targeted Outreach in Renewable Energy Expansion](#-project-3-customer-segmentation-for-targeted-outreach-in-renewable-energy-expansion)
-- [🛠️ Tech Stack](#️-tech-stack)
-- [📞 Contact](#-contact)
-
----
 
 ## 🎓 Project 1: Academic Performance Prediction Using Study and Lifestyle Patterns
 
