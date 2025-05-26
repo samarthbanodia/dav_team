@@ -43,7 +43,8 @@ model.fit(X_train, y_train)
 
 # y_pred = model.predict(X_test)
 # print(classification_report(y_test, y_pred))
-user_input = input("input kroo   ")
+
+user_input = input("input the movie review::  ")
 cleaned_text = preprocessing_text(user_input)
     
     # Transform using the same vectorizer
